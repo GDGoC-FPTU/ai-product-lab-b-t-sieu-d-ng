@@ -56,7 +56,7 @@ Hãy sử dụng **4 Lenses** dưới đây để quét qua hoạt động vận
 4. **Pain từ người khác (Stakeholder Pain):** Bottleneck khiến khách hàng hoặc nhân viên thực địa phàn nàn. (Ví dụ: Tài xế Xanh SM phàn nàn về việc hệ thống gợi ý điểm đón khách không chính xác).
 
 > [!TIP]
-> **🤖 AI Prompts — Partner brainstorm:**
+> 🤖 AI Prompts — Partner brainstorm:**
 > Hãy sử dụng prompt sau để brainstorm các bài toán thực tế nếu bạn chưa có ý tưởng:
 > *"Tôi là AI Engineer tại Vin Smart Future (Vingroup). Tôi đang tìm kiếm các pain point vận hành cụ thể có thể tối ưu bằng AI cho mảng [Chọn một: VinFast / Xanh SM / Vinhomes / Vinmec]. Hãy gợi ý cho tôi 5 quy trình nghiệp vụ thủ công, tốn nhiều thời gian và gây rò rỉ hiệu suất kèm con số thống kê ước tính về tổn thất."*
 
@@ -71,7 +71,7 @@ Hãy sử dụng **4 Lenses** dưới đây để quét qua hoạt động vận
 
 ---
 
-# 🃏 Phase 2 — QUICK-ASSESS (Cá nhân, 30 min)
+# 🃏 Phase 2 — QU**ICK-ASSESS (Cá nhân, 30 min)
 
 Chọn **top 3 bài toán** từ danh sách trên và hoàn thiện **3 Quick Problem Cards** dưới đây (10 phút/card).
 
