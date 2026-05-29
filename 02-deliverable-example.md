@@ -49,18 +49,18 @@ Chọn top 3 từ danh sách SCAN: **#2 (Xanh SM Sự cố sạc), #4 (Vinhomes 
 │ Workflow thủ công hiện tại (5 bước):                        │
 │   1. Tài xế gọi tổng đài điều vận báo hết pin               │
 │   → 2. Điều phối viên tra cứu thủ công vị trí xe trên bản đồ│
-│   → 3. Tra cứu thủ công các trạm sạc VinFast còn trụ trống   │
+│   → 3. Tra cứu thủ công các trạm sạc VinFast còn trụ trống  │
 │   → 4. Viết tin nhắn chỉ dẫn/đường đi gửi qua App tài xế    │
 │   → 5. Liên hệ đội xe cứu hộ nếu xe đã cạn kiệt pin         │
 │                                                             │
-│ Bước nào tốn nhất? Bước 3-4 (⏱ 12 phút/lượt)                │
+│ Bước nào tốn nhất? Bước 3-4 (⏱ 12 phút/lượt)               │
 │ AI có thể nhảy vào hỗ trợ ở bước nào? Bước 3-4              │
 │ (Tự động hóa lấy vị trí -> Tra cứu trạm trống -> Draft tin) │
 │                                                             │
-│ Đo thành công bằng gì (Metric có số)?                        │
+│ Đo thành công bằng gì (Metric có số)?                       │
 │ Giảm thời gian xử lý sự cố từ 15 phút ──> dưới 3 phút.      │
 │                                                             │
-│ Quick Architecture: [x] LLM Feature (Tự động soạn chỉ dẫn)   │
+│ Quick Architecture: [x] LLM Feature (Tự động soạn chỉ dẫn)  │
 └─────────────────────────────────────────────────────────────┘
 ```
 
